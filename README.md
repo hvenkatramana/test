@@ -6,4 +6,7 @@ Lets do some more changes and use git pull directly
 
 Now i will see use of  git pull instead of git fetch and merge command
 
-Now i will do some changes in local repository and update it at remote-repo
+Now i will do some changes in local repository and update it at remote-repo using git push
+
+Now this change only you can see in new local branch name reuse2
+
